@@ -22,7 +22,7 @@ Xcode 14.2
 
 Swift 5.0
 
-Alamofire
+Alamofire package
 
 
 Installation
@@ -30,8 +30,6 @@ Installation
 Clone this repository:
 
 Open the project in Xcode.
-
-Run pod install if Alamofire isn’t already installed.
 
 Build and run the app on a simulator or device.
 
